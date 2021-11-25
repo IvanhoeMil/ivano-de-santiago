@@ -1,2 +1,2 @@
 # ivano-de-santiago
-My GitHub pages website
+My GitHub pages repo
